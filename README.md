@@ -63,7 +63,7 @@ Thanks for visiting my profile! Feel free to explore my repositories and follow 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RipperdocNiladri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=RipperdocNiladri&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=RipperdocNiladri&color=00BFFF)
 
 📫 Connect with me
 
