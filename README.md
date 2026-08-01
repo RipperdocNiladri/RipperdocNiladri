@@ -1,22 +1,58 @@
-# Hi there 👋
+# Hi there! 👋 I'm Niladri Pal
 
-I'm **Niladri**.
+### Electronics & Communication Engineering Student | Python Developer | Linux Enthusiast
 
-🎓 Electronics & Communication Engineering Student
+I'm an Electronics & Communication Engineering student with a passion for building projects that connect **software with hardware**. I enjoy learning by creating—from Python applications and web projects to exploring embedded systems and automation.
 
-💻 Learning
-- Python
-- C
-- C++
-- HTML
-- CSS
-- Linux
+My interests lie at the intersection of **electronics, programming, and intelligent systems**, where code meets real-world devices. I'm constantly expanding my knowledge while working on projects that challenge me to think, experiment, and improve.
 
-🚀 Current Goals
-- Build Python projects
-- Learn DSA
-- Prepare for placements
-- Explore AI
+## 🚀 About Me
+
+* 🎓 Electronics & Communication Engineering Student
+* 💻 Passionate about Python, C, C++, and modern web technologies
+* 🐧 Daily Linux user and open-source enthusiast
+* ⚙️ Interested in Embedded Systems, Microcontrollers, and Automation
+* 🚀 Fascinated by Robotics, Space Technology, and future engineering innovations
+* 🌱 Always learning new technologies and building practical projects
+
+## 🛠️ Languages
+
+* Python
+* C
+* C++
+* HTML
+* CSS
+* JavaScript
+
+## 🔧 Tools & Technologies
+
+* Linux
+* Git
+* GitHub
+* VS Code
+* Compilers & Development Toolchains
+
+## 📂 Featured Repositories
+
+* 🐍 Python-Fun-Projects
+* 📘 C-Learning
+* 🌦️ Weather-App
+
+## 🎯 Current Focus
+
+* Embedded Systems
+* Robotics
+* Space Technologies
+* Building real-world software and hardware projects
+* Continuously improving programming and engineering skills
+
+## 💡 Philosophy
+
+> **"Always exploring how hardware and software work together."**
+
+I believe the best way to learn is to build. Every project teaches something new, whether it's writing cleaner code, understanding hardware more deeply, or solving real engineering problems.
+
+Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue building, learning, and experimenting.
 
 
 # 💻 Tech Stack:
