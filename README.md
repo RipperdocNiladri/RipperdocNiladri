@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Niladri Pal
 
-### Electronics & Communication Engineering Student | Python Developer | Linux Enthusiast
+### Electronics & Communication Engineering Student | Python & C Developer | Linux Enthusiast
 
 I'm an Electronics & Communication Engineering student with a passion for building projects that connect **software with hardware**. I enjoy learning by creating—from Python applications and web projects to exploring embedded systems and automation.
 
