@@ -2,10 +2,6 @@
 
 ### Electronics & Communication Engineering Student | Python & C Developer | Linux Enthusiast
 
-I'm an Electronics & Communication Engineering student with a passion for building projects that connect **software with hardware**. I enjoy learning by creating—from Python applications and web projects to exploring embedded systems and automation.
-
-My interests lie at the intersection of **electronics, programming, and intelligent systems**, where code meets real-world devices. I'm constantly expanding my knowledge while working on projects that challenge me to think, experiment, and improve.
-
 ## 🚀 About Me
 
 * 🎓 Electronics & Communication Engineering Student
