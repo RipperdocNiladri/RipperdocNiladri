@@ -14,13 +14,13 @@
 
 ## 📂 Featured Repositories
 
-* 🐍 Python-Fun-Projects 👉![](https://github.com/RipperdocNiladri/Python-Fun-Projects.git)
-* 📘 C-Learning 👉![](https://github.com/RipperdocNiladri/C-Learning.git)
-* 🌦️ Weather-App 👉![](https://github.com/RipperdocNiladri/Weather-App.git)
-* 🎶 ACII-Art 👉![](https://github.com/RipperdocNiladri/ASCII-Art.git)
-* 👁️ OpenCV Projects 👉![](https://github.com/RipperdocNiladri/Open-CV-projects.git)
-* 🤖 Project-LUCY 👉![](https://github.com/RipperdocNiladri/Project-LUCY.git)
-* 🐢 Turtle-Graphics-Projects 👉![](https://github.com/RipperdocNiladri/Turtle-graphics-Projects.git)
+* 🐍 Python-Fun-Projects 👉 https://github.com/RipperdocNiladri/Python-Fun-Projects.git
+* 📘 C-Learning 👉 https://github.com/RipperdocNiladri/C-Learning.git
+* 🌦️ Weather-App 👉 https://github.com/RipperdocNiladri/Weather-App.git
+* 🎶 ACII-Art 👉 https://github.com/RipperdocNiladri/ASCII-Art.git
+* 👁️ OpenCV Projects 👉 https://github.com/RipperdocNiladri/Open-CV-projects.git
+* 🤖 Project-LUCY 👉 https://github.com/RipperdocNiladri/Project-LUCY.git
+* 🐢 Turtle-Graphics-Projects 👉 https://github.com/RipperdocNiladri/Turtle-graphics-Projects.git
 
 
 ## 🎯 Current Focus
