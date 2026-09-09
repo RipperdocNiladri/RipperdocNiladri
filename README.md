@@ -31,15 +31,6 @@
 * Building real-world software and hardware projects
 * Continuously improving programming and engineering skills
 
-## 💡 Philosophy
-
-> **"Always exploring how hardware and software work together."**
-
-I believe the best way to learn is to build. Every project teaches something new, whether it's writing cleaner code, understanding hardware more deeply, or solving real engineering problems.
-
-Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue building, learning, and experimenting.
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ripperdocniladri?utm_source=qr&stkn=MW5sazkxZHR1eDRkZw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niladri-pal-7262893a9?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niladripal0810@gmail.com) 
@@ -50,6 +41,16 @@ Thanks for visiting my profile! Feel free to explore my repositories and follow 
 ![](https://github-readme-stats.shion.dev/api?username=RipperdocNiladri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=RipperdocNiladri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RipperdocNiladri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 💡 Philosophy
+
+> **"Always exploring how hardware and software work together."**
+
+I believe the best way to learn is to build. Every project teaches something new, whether it's writing cleaner code, understanding hardware more deeply, or solving real engineering problems.
+
+Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue building, learning, and experimenting.
+
 
 📫 Connect with me
 
