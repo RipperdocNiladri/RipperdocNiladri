@@ -1,4 +1,4 @@
-<img src="assets\images\goku.gif" alt="App Demo" width = 400>
+<img src="assets\images\goku_coding.gif" alt="App Demo" width = 400>
 
 # Hi there! 👋 I'm Niladri Pal
 
