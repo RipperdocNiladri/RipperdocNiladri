@@ -11,9 +11,7 @@
 * 🚀 Fascinated by Robotics, Space Technology, and future engineering innovations
 * 🌱 Always learning new technologies and building practical projects
 
-
-![App Demo](assets\images\goku gif.gif)
-
+<img src="assets\images\goku gif.gif" alt="App Demo" >
 
 ## 📂 Featured Repositories
 
