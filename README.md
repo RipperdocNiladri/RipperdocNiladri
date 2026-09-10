@@ -25,15 +25,6 @@
 * 🐢 Turtle-Graphics-Projects 👉 https://github.com/RipperdocNiladri/Turtle-graphics-Projects.git
 
 
-## 🎯 Current Focus
-
-* Embedded Systems
-* Robotics
-* Space Technologies
-* Building real-world software and hardware projects
-* Continuously improving programming and engineering skills
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ripperdocniladri?utm_source=qr&stkn=MW5sazkxZHR1eDRkZw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niladri-pal-7262893a9?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niladripal0810@gmail.com) 
 
