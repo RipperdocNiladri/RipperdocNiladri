@@ -45,12 +45,12 @@ I believe the best way to learn is to build. Every project teaches something new
 Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue building, learning, and experimenting.
 
 
+![snake gif](https://github.com/RipperdocNiladri/RipperdocNiladri/blob/output/github-snake-dark.svg)
+
+
 📫 Connect with me
 
 GitHub:
 https://github.com/RipperdocNiladri
 
 > "Code. Learn. Build. Repeat."
-
-
-![snake gif](https://github.com/RipperdocNiladri/RipperdocNiladri/blob/output/github-snake-dark.svg)
