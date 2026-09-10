@@ -58,3 +58,6 @@ GitHub:
 https://github.com/RipperdocNiladri
 
 > "Code. Learn. Build. Repeat."
+
+
+![snake gif](https://github.com/RipperdocNiladri/RipperdocNiladri/blob/output/github-snake-dark.svg)
