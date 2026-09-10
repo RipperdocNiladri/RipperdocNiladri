@@ -12,9 +12,6 @@
 * 🌱 Always learning new technologies and building practical projects
 
 
-![App Demo](assets\images\goku gif.gif)
-
-
 ## 📂 Featured Repositories
 
 * 🐍 Python-Fun-Projects 👉 https://github.com/RipperdocNiladri/Python-Fun-Projects.git
