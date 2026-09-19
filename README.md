@@ -1,6 +1,6 @@
 <img src="assets\images\goku_coding.gif" alt="App Demo" width = 400>
 
-# Hi there! 👋 I'm Niladri Pal
+# YOO 👋 I'm Niladri Pal
 
 ### Electronics & Communication Engineering Student | Python & C Developer | Linux Enthusiast
 
