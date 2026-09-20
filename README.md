@@ -2,10 +2,7 @@
 
 # Hi there!👋 I'm Niladri Pal
 
-### Electronics & Communication Engineering Student | Python & C Developer | Linux Enthusiast
-
 ## 🚀 About Me
-
 * 🎓 Electronics & Communication Engineering Student
 * 💻 Passionate about Python, C, C++, and modern web technologies
 * 🐧 Daily Linux user and open-source enthusiast
