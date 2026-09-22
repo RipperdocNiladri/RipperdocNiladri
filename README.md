@@ -1,6 +1,10 @@
-<img src="assets\images\goku_coding.gif" alt="App Demo" width = 400>
-
 # Hi there!👋 I'm Niladri Pal
+</br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=1000&random=true&width=1100&height=50&lines=Electronics+%26+Communication+Engineering+Student;Python+%26+C+Developer;Web+Developer;Linux+Enthusiast" alt="Typing SVG" /></a>
+</br>
+
+<img src="assets\images\goku_coding.gif" alt="App Demo" width = 800>
+</br>
 
 ## 🚀 About Me
 * 🎓 Electronics & Communication Engineering Student
