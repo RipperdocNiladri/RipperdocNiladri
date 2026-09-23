@@ -1,6 +1,6 @@
 # Hi there!<img src="assets\images\goku_hii.png" alt="App Demo" width = 50> I'm Niladri Pal
 </br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=1000&random=true&width=1100&height=50&lines=Electronics+%26+Communication+Engineering+Student;Python+%26+C+Developer;Web+Developer;Linux+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=1000&random=true&width=1100&height=55&lines=Electronics+%26+Communication+Engineering+Student;Python+%26+C+Developer;Web+Developer;Linux+Enthusiast" alt="Typing SVG" /></a>
 </br>
 
 <img src="assets\images\goku_coding.gif" alt="App Demo" width = 700>
@@ -68,7 +68,7 @@ I believe the best way to learn is to build. Every project teaches something new
 
 Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue building, learning, and experimenting. 
 </br>
-<img src="assets\images\goku_eat.png" alt="App Demo" width = 60>
+<img src="assets\images\goku_eat.png" alt="App Demo" width = 70>
 
 
 ![snake gif](https://github.com/RipperdocNiladri/RipperdocNiladri/blob/output/github-snake-dark.svg)
