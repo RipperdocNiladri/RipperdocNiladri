@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,ubuntu,debian,arch,neovim,vim,opencv,powershell,vscode,pycharm,pytorch,tensorflow,react,arduino,raspberrypi,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,linux,ubuntu,debian,arch,neovim,vim,opencv,powershell,vscode,pycharm,pytorch,tensorflow,react,nextjs,arduino,raspberrypi,bash,matlab,blender" />
   </a>
 </p>
 
@@ -83,7 +83,7 @@ Thanks for visiting my profile! Feel free to explore my repositories and follow 
 
 ## 🌐 Social Links:
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/RipperdocNiladri)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ripperdocniladri?utm_source=qr&stkn=MW5sazkxZHR1eDRkZw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niladri-pal-7262893a9?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niladripal0810@gmail.com) 
+[![GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/RipperdocNiladri)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ripperdocniladri?utm_source=qr&stkn=MW5sazkxZHR1eDRkZw==) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/niladri-pal-7262893a9?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://skillicons.dev/icons?i=gmail)](mailto:niladripal0810@gmail.com) 
 
 > "Code. Learn. Build. Repeat."
