@@ -1,6 +1,6 @@
 # Hi there!<img src="assets\images\goku_hii.png" alt="App Demo" width = 50> I'm Niladri Pal
 </br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=1000&random=true&width=1100&height=55&lines=Electronics+%26+Communication+Engineering+Student;Python+%26+C+Developer;Web+Developer;Linux+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=1000&random=true&width=1100&height=55&lines=Electronics+%26+Communication+Engineering+Student;Python+%26+C+Developer;WEEB+Developer;Linux+Enthusiast" alt="Typing SVG" /></a>
 </br>
 
 <img src="assets\images\gooku_coding.gif" alt="App Demo" width = 700>
