@@ -30,9 +30,7 @@
   </a>
 </p>
 
-## 📂 Featured Repositories 
-
-<img src="assets\images\kamehameha.gif" alt="App Demo" width = 200>
+## 📂 Featured Repositories
 
 <a href="https://github.com/RipperdocNiladri/Project-LUCY.git">
   <img src="assets\images\project_lucy.png" alt="Alt Text" width="300" />
@@ -66,7 +64,8 @@
 # 📊 GitHub Stats: <img src="assets\images\goku_eat.png" alt="App Demo" width = 60>
 ![](https://github-readme-stats.shion.dev/api?username=RipperdocNiladri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RipperdocNiladri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://streak-stats.demolab.com/?user=RipperdocNiladri&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=RipperdocNiladri&theme=dark&hide_border=false)
+<img src="assets\images\kamehameha.gif" alt="App Demo" width = 250><br/>
 
 ## 💡 Philosophy
 
