@@ -3,10 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=1000&random=true&width=1100&height=55&lines=Electronics+%26+Communication+Engineering+Student;Python+%26+C+Developer;Web+Developer;Linux+Enthusiast" alt="Typing SVG" /></a>
 </br>
 
-<img src="assets\images\gooku_coding.gif" alt="App Demo" width = 700>
+<img src="assets\images\goku_coding3.png" alt="App Demo" width = 700>
 </br>
-
-
 
 <div>
   
@@ -32,7 +30,10 @@
   </a>
 </p>
 
-## 📂 Featured Repositories
+## 📂 Featured Repositories 
+
+<img src="assets\images\kamehameha.gif" alt="App Demo" width = 200>
+
 <a href="https://github.com/RipperdocNiladri/Project-LUCY.git">
   <img src="assets\images\project_lucy.png" alt="Alt Text" width="300" />
 </a>
