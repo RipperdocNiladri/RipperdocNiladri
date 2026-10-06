@@ -81,8 +81,6 @@ Thanks for visiting my profile! Feel free to explore my repositories and follow 
 
 # 📫 Connect with me
 
-## 🌐 Social Links:
-
 [![GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/RipperdocNiladri)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ripperdocniladri?utm_source=qr&stkn=MW5sazkxZHR1eDRkZw==) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/niladri-pal-7262893a9?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://skillicons.dev/icons?i=gmail)](mailto:niladripal0810@gmail.com) 
 
