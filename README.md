@@ -32,32 +32,39 @@
 
 ## 📂 Featured Repositories
 
-<a href="https://github.com/RipperdocNiladri/Project-LUCY.git">
+<a href="https://github.com/RipperdocNiladri/Project-LUCY">
   <img src="assets\images\project_lucy.png" alt="Alt Text" width="300" />
 </a>
-<a href="https://github.com/RipperdocNiladri/ASCII-Art.git">
+<a href="https://github.com/RipperdocNiladri/ASCII-Art">
   <img src="assets\images\ascii_art.png" alt="Alt Text" width="300" />
 </a>
 </br>
-<a href="https://github.com/RipperdocNiladri/C-Learning.git">
+<a href="https://github.com/RipperdocNiladri/C-Learning">
   <img src="assets/images/c_learning.png" alt="Alt Text" width="300" />
 </a>
-<a href="https://github.com/RipperdocNiladri/Python-Fun-Projects.git">
+<a href="https://github.com/RipperdocNiladri/Python-Fun-Projects">
   <img src="assets\images\python.png" alt="Alt Text" width="300" />
 </a>
 </br>
-<a href="https://github.com/RipperdocNiladri/Open-CV-projects.git">
+<a href="https://github.com/RipperdocNiladri/Open-CV-projects">
   <img src="assets\images\opencv.png" alt="Alt Text" width="300" />
 </a>
-<a href="https://github.com/RipperdocNiladri/Weather-App.git">
+<a href="https://github.com/RipperdocNiladri/Weather-App">
   <img src="assets\images\weather_app.png" alt="Alt Text" width="300" />
 </a>
 </br>
-<a href="https://github.com/RipperdocNiladri/Super_Saiyan.git">
-  <img src="assets\images\super_saiyan (2).gif" alt="Alt Text" width="300" />
-</a>
 <a href="https://github.com/RipperdocNiladri/Turtle-graphics-Projects.git">
   <img src="assets\images\turtle.png" alt="Alt Text" width="300" />
+</a>
+<a href="https://github.com/RipperdocNiladri/pixel_fluid_morph">
+  <img src="assets\images\pixel-fluid-morph.png" alt="Alt Text" width="300" />
+</a>
+</br>
+<a href="https://niladri-pal-portfolio.vercel.app">
+  <img src="assets\images\portfolio-card1.png" alt="Alt Text" width="300" />
+</a>
+<a href="https://github.com/RipperdocNiladri/Super_Saiyan">
+  <img src="assets\images\super_saiyan (2).gif" alt="Alt Text" width="300" />
 </a>
 
 
