@@ -35,8 +35,8 @@
 <a href="https://github.com/RipperdocNiladri/Project-LUCY" target="_blank" rel="noopener noreferrer">
   <img src="assets\images\project_lucy.png" alt="Alt Text" width="245" />
 </a>
-<a href="https://github.com/RipperdocNiladri/ASCII-Art">
-  <img src="assets\images\ascii_art.png" alt="Alt Text" width="250" />
+<a href="https://github.com/RipperdocNiladri/ASCII-Art" target="_blank" rel="noopener noreferrer">
+  <img src="assets/images/ascii_art.png" alt="Alt Text" width="250" />
 </a>
 <a href="https://github.com/RipperdocNiladri/C-Learning">
   <img src="assets/images/c_learning.png" alt="Alt Text" width="240" />
