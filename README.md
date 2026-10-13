@@ -32,7 +32,7 @@
 
 ## 📂 Featured Repositories
 
-<a href="https://github.com/RipperdocNiladri/Project-LUCY">
+<a href="https://github.com/RipperdocNiladri/Project-LUCY" target="_blank" rel="noopener noreferrer">
   <img src="assets\images\project_lucy.png" alt="Alt Text" width="245" />
 </a>
 <a href="https://github.com/RipperdocNiladri/ASCII-Art">
