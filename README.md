@@ -108,10 +108,28 @@
 
 
 # 📊 GitHub Stats: <img src="assets\images\goku_eat.png" alt="App Demo" width = 60>
-![](https://github-readme-stats.shion.dev/api?username=RipperdocNiladri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RipperdocNiladri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://streak-stats.demolab.com/?user=RipperdocNiladri&theme=dark&hide_border=false)
-<img src="assets\images\kamehameha.gif" alt="App Demo" width = 250><br/>
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api?username=RipperdocNiladri&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Niladri's GitHub Stats" width="100%" />
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RipperdocNiladri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" width="100%" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=RipperdocNiladri&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="100%" />
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <img src="assets/images/kamehameha.gif" alt="App Demo" width="82%" />
+    </td>
+  </tr>
+</table>
+
+
 
 ## 💡 Philosophy
 
