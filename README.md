@@ -58,13 +58,16 @@
   <img src="assets\images\PatchPilot.png" alt="Alt Text" width="245" />
 </a>
 <a href="https://github.com/RipperdocNiladri/Turtle-graphics-Projects.git">
-  <img src="assets/images/turtle.png" alt="Alt Text" width="240" />
+  <img src="assets/images/turtle.png" alt="Alt Text" width="250" />
 </a>
-<a href="https://github.com/RipperdocNiladri/Super_Saiyan">
-  <img src="assets/images/super_saiyan (2).gif" alt="Alt Text" width="260" />
+<a href="https://github.com/RipperdocNiladri/ChatVault">
+  <img src="assets\images\ChatVault3.png" alt="Alt Text" width="250" />
 </a>
 </br>
 
+<a href="https://github.com/RipperdocNiladri/Super_Saiyan">
+  <img src="assets/images/super_saiyan (2).gif" alt="Alt Text" width="250" />
+</a>
 <a href="https://github.com/RipperdocNiladri/pixel_fluid_morph">
   <img src="assets/images/pixel-fluid-morph.png" alt="Alt Text" width="255" />
 </a>
