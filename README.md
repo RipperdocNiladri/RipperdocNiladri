@@ -12,7 +12,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=800&pause=10&color=12C811&multiline=true&repeat=false&width=600&height=250&lines=%24+whoami;%3E+Name%3A+Niladri+Pal;%3E+Age%3A+19;%3E+Electronics+%26+Communication+Engineering+Student;%24+cat+core_directives.txt;%3E+Passionate+about+Python%2C+C%2C+C%2B%2B%2C+and+modern+web+technologies.;%3E+Daily+Linux+user+and+open-source+enthusiast.;%3E+Interested+in+Embedded+Systems%2C+Microcontrollers%2C+and+Automation.;%3E+Always+learning+new+technologies+and+building+practical+projects.)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:<img src="assets\images\Chibi Goku (1).png" alt="App Demo" width = 80>
+
+<p align="center" valign="middle">
+  <a href="https://niladri-pal-portfolio.vercel.app">
+    <img src="assets\images\Portfolio Button.png" width="200"/>
+  </a>
+</p>
+
+# 💻 Tech Stack:
 
 ## Languages
 
@@ -131,7 +138,7 @@
 
 
 
-## 💡 Philosophy
+## 💡 Philosophy <img src="assets\images\Chibi Goku (1).png" alt="App Demo" width = 70>
 
 > **"Always exploring how hardware and software work together."**
 
